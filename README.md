@@ -52,7 +52,7 @@ Clone the Repository:
 
 bash
 Copy
-git clone https://github.com/your-username/Number-plate-Recognition-and-Extraction.git
+git clone https://github.com/divyani95/Number-plate-Recognition-and-Extraction.git
 cd Number-plate-Recognition-and-Extraction
 Install Dependencies:
 
