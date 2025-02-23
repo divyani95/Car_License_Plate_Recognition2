@@ -52,7 +52,7 @@ Clone the Repository:
 
 bash
 Copy
-git clone https://github.com/divyani95/Number-plate-Recognition-and-Extraction.git
+git clone https://github.com/divyani95/Car_License_Plate_Recognition2/blob/main/Number_Recognition.py
 cd Number-plate-Recognition-and-Extraction
 Install Dependencies:
 
